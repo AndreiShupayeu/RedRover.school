@@ -7,7 +7,7 @@ It should look like this:
 Sam Harris => S.H
 patrick feeney => P.F
  */
-public class Codewars17 {
+public class Codewars1 {
     public static void main(String[] args) {
         System.out.println(AbbreviateTwoWords.abbrevName("Andrei Shupaev"));
     }
