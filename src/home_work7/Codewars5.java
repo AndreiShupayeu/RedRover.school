@@ -2,7 +2,7 @@ package home_work7;
 /*I'm new to coding and now I want to get the sum of two arrays...
 Actually the sum of all their elements. I'll appreciate for your help.
 P.S. Each array includes only integer numbers. Output is a number too.*/
-public class Codeqars5 {
+public class Codewars5 {
     public static void main(String[] args) {
         System.out.println(Sum.arrayPlusArray(new int[]{1, 5, 6}, new int[]{1, 3, 7}));
     }
