@@ -1,6 +1,5 @@
 package home_work8;
 import java.util.Arrays;
-
 /*
 Story
 Ben has a very simple idea to make some profit: he buys something and sells it again.
